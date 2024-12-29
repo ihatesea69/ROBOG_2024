@@ -1,4 +1,7 @@
 # ROBOG_2024
+
+![Team Pictures HUFLIT]([http://url/to/img.png](https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/460972610_1074842707535275_4029347266825200113_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeF7sZm6AUTH2VOWHCjlCVHkg9yYV-mJlkqD3JhX6YmWSi9YKw3wE691sFrR4gg5dLb_f-d6HptSenM54NWwBz3U&_nc_ohc=ht3fnZXO2-cQ7kNvgHcYelX&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=ABm8pY1IXiC2ZgyiLxhbYr2&oh=00_AYBYGxuvCTRvZ7z7k7yi3Rm4MSBKf3k-M8T8Ts3pGr6xug&oe=6776D399))
+
 This is repository showcase the story that help me and my team winning 3rd place in ROBOG 2024
 **# Our Journey in the RoboG 2024 Competition**
 
